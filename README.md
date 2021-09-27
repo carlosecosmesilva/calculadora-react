@@ -3,6 +3,10 @@
 This project was created through the learning acquired in the course [The Complete Full-Stack JavaScript Course](https://www.udemy.com/course/full-stack-javascript/)
 
 Esse projeto foi criado através do aprendizado adquirido no curso [The Complete Full-Stack JavaScript Course](https://www.udemy.com/course/full-stack-javascript/)
+
+# The Project
+ <img src="./screenshot/project.gif" height="400" alt="Screenshot"/>
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -49,5 +53,3 @@ Você pode saber mais na [Documentação para criar uma aplicação React](https
 
 Para aprender o React, verifique a [Documentação do React](https://reactjs.org/).
 
-# The Project
- <img src="./screenshot/project.gif" height="400" alt="Screenshot"/>
